@@ -73,8 +73,8 @@ Resolve the errors and warnings that are shown in the application.
 
 ### Libraries and tools used
 
-- BLoC - State management
-  https://bloclibrary.dev
+- Riverpod - State management
+  https://riverpod.dev/docs/getting_started
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
 

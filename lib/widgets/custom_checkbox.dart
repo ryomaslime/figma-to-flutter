@@ -101,6 +101,7 @@ class CustomCheckbox extends StatelessWidget {
         onChanged: (value) {
           onChange!(value!);
         },
+        checkColor: ColorConstant.whiteA700,
       ),
     );
   }
